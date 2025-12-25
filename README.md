@@ -102,3 +102,4 @@ This project is open source and available for personal and commercial use.
 
 Made with ❤️ for showcasing your work
 
+"# safe.github.io" 
